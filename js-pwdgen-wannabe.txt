@@ -1,0 +1,11 @@
+PROBLEMA: Creazione password
+
+1 - Dare la possibilità di inserire il nome
+2 - Dare la possibilità di inserire il cognome
+3 - Dare la possibilità di inserire il colore preferito
+4 - Concatenare i valori delle variabili concatenando il numero 21 a fine stringa
+5 - Visualizza sullo schermo (nella pagina) 
+   5.1 - recupero elemento avente id 'nome'
+   5.2 - recupero elemento avente id 'cognome'
+   5.3 - recupero elemento avente id 'colore preferito'
+6 - Assegno all'innerHTML di questo elemento il valore dato dalla concatenazione
